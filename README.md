@@ -4,3 +4,4 @@ proyecto git_win
 Gráfica de puntos del det de datos llamado "swiss". Escrito en R.
 
 
+Desarrollado por Alex PS
