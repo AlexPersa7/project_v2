@@ -1,5 +1,9 @@
 
-#  jueves 25 de nov
+
+
+# Alejandro Pereira
+# R = 4.1.0
+# jueves 25 de nov
 print("Hola mundo")
 
 dotchart(swiss$Agriculture,
